@@ -1,0 +1,29 @@
+s(
+  np(
+    pro(i)), 
+  vp(
+    v(eat), 
+    np(
+      det(the), 
+      n(cow), ), 
+    prep(
+      pre(under), 
+      np(
+        det(the), 
+        n(table), ))))
+s(
+  np(
+    pro(she)), 
+  vp(
+    v(imagines), ))
+s(
+  np(
+    pro(i)), 
+  vp(
+    v(cry), 
+    prep(
+      pre(in), 
+      np(
+        det(a), 
+        n(shower), ))))
+no
